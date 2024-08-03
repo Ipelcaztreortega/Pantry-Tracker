@@ -25,7 +25,7 @@ Required Tasks:
 - [X] **By Sunday 8/4 6pm EST, make a Reddit post titled [Project 2 | Name | Difficulty Level 1/2/3/4] with your deployed application link**
 
 Bonus Tasks:
-- [ ]**Bonus: Take images with mobile or browser camera and upload to Firebase**
-- [ ]**Bonus: Use GPT Vision API or other LLMs to classify images and then update to Firebase**
-- [ ]**Bonus: Use GCP Vertex AI and AutoML to classify 4-5 images of items near you and update Firebase**
-- [ ]**Bonus: Add a recipe suggestion feature based on pantry contents using the OpenAI API or OpenRouter API**
+- [ ] **Bonus: Take images with mobile or browser camera and upload to Firebase**
+- [ ] **Bonus: Use GPT Vision API or other LLMs to classify images and then update to Firebase**
+- [ ] **Bonus: Use GCP Vertex AI and AutoML to classify 4-5 images of items near you and update Firebase**
+- [ ] **Bonus: Add a recipe suggestion feature based on pantry contents using the OpenAI API or OpenRouter API**
